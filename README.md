@@ -1,8 +1,7 @@
 # My Portfolio
 
-A clean portfolio created with Tailwind CSS and Next.js.
+![image](https://github.com/AyushKumar-AK/Portfolio/assets/101948218/cd0d4550-1034-4a33-9a44-694c3b2baafd)
 
-![Portfolio](demo/demo.png)
 
 ## Running Locally
 
