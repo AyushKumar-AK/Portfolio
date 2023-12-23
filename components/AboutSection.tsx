@@ -41,9 +41,10 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              I am a{" "}
+              <span className="font-bold">{"self-taught"}</span> Full Stack
+              Web Developer and I am passionate about building excellent
+              software that improves the lives of those around me.
             </p>
             <br />
             <p>
