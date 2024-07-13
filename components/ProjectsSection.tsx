@@ -6,12 +6,19 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Expense Tracker",
+    name: "Notes App",
     description:
-      "Expense Tracker is a web app that helps people in managing their finances and tracking their exact expenses through a user friendly dashboard.",
-    image: "/expense_tracker.png",
-    github: "https://github.com/AyushKumar-AK/Expense_Tracker",
-    link: "https://github.com/AyushKumar-AK/Expense_Tracker",
+      "An intelligent note taking app with an AI assistant to help you take notes, built with OpenAI, Pinecone, Next.js, Clerk and more.",
+    image: "/note.jpg",
+    github: "https://github.com/AyushKumar-AK/NotesApp",
+    link: "https://github.com/AyushKumar-AK/NotesApp",
+  },
+  {
+    name: "TeamUp",
+    description: "TeamUp is a platform where you can find teammates for hackathons or projects. You can choose teammates based on their skills. It's built with Next.js, React, and Node.js.",
+    image: "/teamup.png",
+    github: "https://teamuphacks.vercel.app/",
+    link: "https://teamuphacks.vercel.app/",
   },
   {
     name: "Cryptonics",
